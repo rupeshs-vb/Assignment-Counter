@@ -66,4 +66,11 @@ button:hover {
     height: 15rem;
     overflow: hidden;
   }
+  header {
+    color: white;
+    text-align: center;
+    background-color: orange;
+    font-size: 1rem;
+    padding: 0.1rem;
+  }
 }
