@@ -21,7 +21,7 @@ function decreament(){
         console.log(orgvalue)
         countervalue.innerText=orgvalue
     }else{
-        // it call reset() function to make vale 0 
+        // it call reset() function to make value 0 
         alert("Cannot go below 0")
         reset()
     }
